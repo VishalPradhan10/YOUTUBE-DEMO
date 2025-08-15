@@ -1,15 +1,17 @@
-Age Calculator/
-BscITPracticalSe*/
-C/
-C++/
-CSS/
-HTML/
-Images/
-JAVA/
-JAVASCRIPT/
-PYTHON/
-Tailwind CSS/
-TicTacToe/
-VITE/
-XML/
-YOUTUBE DEMO/
+# Ignore all project folders in the root
+/*/
+
+# But allow important files/folders you still want tracked
+!.gitignore
+!README.md
+
+# Common ignores
+node_modules/
+dist/
+build/
+out/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.vscode/
