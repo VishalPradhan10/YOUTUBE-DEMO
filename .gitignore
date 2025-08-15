@@ -4,6 +4,7 @@
 # But allow important files/folders you still want tracked
 !.gitignore
 !README.md
+!YOUTUBE DEMO
 
 # Common ignores
 node_modules/
